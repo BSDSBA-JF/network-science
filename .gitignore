@@ -1,2 +1,15 @@
+# macOS system files
 .DS_Store
+
+# Jupyter notebook checkpoints
 **/.ipynb_checkpoints/*
+
+# Python virtual environment
+venv/
+
+# Bytecode
+__pycache__/
+*.py[cod]
+
+# VSCode settings (optional)
+.vscode/
